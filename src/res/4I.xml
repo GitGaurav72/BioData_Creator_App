@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="0x10" android:orientation="0" android:background="ffffff" android:paddingTop="8dp" android:paddingRight="16dp" android:paddingBottom="8dp" android:layout_width="-1" android:layout_height="-2" android:foreground="{2:2130903908}">
+	<ImageView android:id="false" android:paddingLeft="16dp" android:paddingRight="16dp" android:visibility="0" android:layout_width="-2" android:layout_height="-2" android:src="res/-z.png" />
+	<LinearLayout android:orientation="1" android:layout_width="0dp" android:layout_height="-2" android:layout_weight="{4:1065353216}">
+		<TextView android:textSize="15dp" android:textColor="000" android:ellipsize="2" android:gravity="0x10" android:layout_gravity="0x10" android:id="false" android:layout_width="-2" android:layout_height="-2" android:singleLine="true" android:drawablePadding="6dp" />
+		<TextView android:textSize="12dp" android:textColor="707070" android:ellipsize="3" android:layout_gravity="0x10" android:id="false" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="2dp" android:layout_marginBottom="2dp" android:singleLine="true" />
+		<TextView android:textSize="12dp" android:textColor="ff444444" android:ellipsize="3" android:layout_gravity="0x10" android:id="false" android:layout_width="-2" android:layout_height="-2" android:singleLine="true" />
+	</LinearLayout>
+	<ImageView android:id="false" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="16dp" android:src="res/Td.png" />
+</LinearLayout>

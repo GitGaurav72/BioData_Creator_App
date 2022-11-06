@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" style="resourceId:0x7f110124">
+	<androidx.appcompat.widget.AppCompatRadioButton android:id="false" style="resourceId:0x7f110127" />
+	<com.afollestad.materialdialogs.internal.rtl.RtlTextView android:id="false" style="resourceId:0x7f110126" />
+</LinearLayout>

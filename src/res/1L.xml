@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="false" android:background="f5f5f5" android:layout_width="-1" android:layout_height="-1">
+	<Button android:textSize="17sp" android:textColor="res/8p.xml" android:gravity="0x13" android:id="false" android:background="resourceId:0x106000d" android:paddingLeft="20dp" android:layout_width="-2" android:layout_height="-1" android:text="Cancel" android:textAllCaps="false" />
+	<TextView android:textSize="18sp" android:textColor="000" android:gravity="0x11" android:id="false" android:layout_width="-1" android:layout_height="-2" android:layout_toLeftOf="false" android:layout_toRightOf="false" android:layout_centerVertical="true" />
+	<Button android:textSize="17sp" android:textColor="res/8p.xml" android:gravity="0x15" android:id="false" android:background="resourceId:0x106000d" android:paddingRight="20dp" android:layout_width="-2" android:layout_height="-1" android:text="Confirm" android:layout_alignParentRight="true" android:textAllCaps="false" />
+</RelativeLayout>

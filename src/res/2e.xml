@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" android:background="ffffff" android:paddingTop="8dp" android:paddingBottom="8dp" android:scrollbars="0x0" android:layout_width="-1" android:layout_height="-2">
+	<TextView android:textSize="12dp" android:textColor="ff444444" android:id="false" android:paddingLeft="16dp" android:paddingRight="16dp" android:layout_width="-2" android:layout_height="-2" android:lineSpacingMultiplier="{4:1065772646}" />
+</HorizontalScrollView>

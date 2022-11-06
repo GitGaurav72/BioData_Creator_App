@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="-1" android:layout_height="-1">
+	<View android:id="false" android:background="resourceId:0x106000c" android:focusable="true" android:clickable="true" android:layout_width="-1" android:layout_height="-1" />
+	<RelativeLayout android:id="false" android:background="resourceId:0x106000d" android:layout_width="-1" android:layout_height="-1">
+		<View android:id="false" android:background="res/Bi.xml" android:layout_width="-1" android:layout_height="64dp" android:layout_alignParentTop="true" />
+		<View android:id="false" android:background="res/_3.xml" android:layout_width="-1" android:layout_height="64dp" android:layout_alignParentBottom="true" />
+		<TextView android:textSize="14sp" android:textColor="resourceId:0x106000b" android:ellipsize="3" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="" android:lines="1" android:layout_alignParentTop="true" android:layout_toStartOf="false" android:layout_alignParentStart="true" />
+		<LinearLayout android:orientation="0" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentTop="true" android:layout_alignParentEnd="true">
+			<ImageView android:id="false" android:background="res/TN1.xml" android:focusable="true" android:visibility="2" android:clickable="true" android:layout_width="-2" android:layout_height="-2" android:src="res/gU.png" android:contentDescription="Open video in YouTube" />
+		</LinearLayout>
+		<ImageView android:id="false" android:background="res/TN1.xml" android:padding="8dp" android:focusable="true" android:visibility="1" android:clickable="true" android:layout_width="-2" android:layout_height="-2" android:src="res/33.png" android:layout_centerInParent="true" android:contentDescription="Play button" />
+		<ProgressBar android:id="false" android:layout_width="-2" android:layout_height="-2" android:layout_centerInParent="true" style="resourceId:0x7f1102f5" />
+		<LinearLayout android:gravity="0x10" android:orientation="0" android:layout_width="-1" android:layout_height="-2" android:layout_alignParentBottom="true" android:layout_alignParentStart="true" android:layout_alignParentEnd="true">
+			<com.pierfrancescosoffritti.androidyoutubeplayer.core.ui.views.YouTubePlayerSeekBar android:id="false" android:layout_width="0dp" android:layout_height="-2" android:maxHeight="100dp" android:layout_weight="{4:1065353216}" app:color="f44336" app:fontSize="12sp" />
+			<TextView android:textSize="12sp" android:textColor="resourceId:0x106000b" android:gravity="0x10" android:id="false" android:padding="8dp" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:text="LIVE" />
+			<ImageView android:id="false" android:background="res/TN1.xml" android:padding="8dp" android:focusable="true" android:clickable="true" android:layout_width="-2" android:layout_height="-2" android:src="res/Vj.png" android:contentDescription="Open video in YouTube" />
+			<ImageView android:id="false" android:background="res/TN1.xml" android:padding="8dp" android:focusable="true" android:clickable="true" android:layout_width="-2" android:layout_height="-2" android:src="res/Sy.png" android:contentDescription="Full screen button" />
+		</LinearLayout>
+		<ImageView android:id="false" android:background="res/TN1.xml" android:padding="8dp" android:focusable="true" android:visibility="2" android:clickable="true" android:layout_width="-2" android:layout_height="-2" android:layout_margin="32dp" android:src="res/33.png" android:layout_centerVertical="true" android:contentDescription="YouTube player Custom action left" android:layout_toStartOf="false" />
+		<ImageView android:id="false" android:background="res/TN1.xml" android:padding="8dp" android:focusable="true" android:visibility="2" android:clickable="true" android:layout_width="-2" android:layout_height="-2" android:layout_margin="32dp" android:src="res/33.png" android:layout_centerVertical="true" android:contentDescription="YouTube player custom action right" android:layout_toEndOf="false" />
+	</RelativeLayout>
+</FrameLayout>

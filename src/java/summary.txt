@@ -1,0 +1,35 @@
+Summary for /storage/emulated/0/show-java/sources/app.bravostudio.A01GABTGE6Z3KFZ6D998T3ZA192/jar-files/9.jar
+Decompiled with CFR 0.0
+
+
+com.appfoundry.previewer.activities.BravoActivity
+----------------------------
+
+t(com.appfoundry.previewer.activities.BravoActivity com.appfoundry.previewer.model.ResponseAction android.widget.RelativeLayout androidx.fragment.app.Fragment java.lang.Boolean java.lang.Boolean java.lang.Boolean e.g.a.m.h int java.lang.Object )
+  Unable to fully structure code
+onActivityResult(int int android.content.Intent )
+  Unable to fully structure code
+onOpenSelectorEvent(e.g.a.i.g0 )
+  Unable to fully structure code
+onPauseEvent(e.g.a.i.i0 )
+  Unable to fully structure code
+onPlayEvent(e.g.a.i.l0 )
+  Unable to fully structure code
+onStripeCheckoutEvent(e.g.a.i.w0 )
+  Unable to fully structure code
+r()
+  Unable to fully structure code
+
+
+com.appfoundry.previewer.fragments.BottomSheetFragment
+----------------------------
+
+onCreateView(android.view.LayoutInflater android.view.ViewGroup android.os.Bundle )
+  Unable to fully structure code
+
+
+com.journeyapps.barcodescanner.CameraPreview
+----------------------------
+
+pauseAndWait()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Invalid stack depths @ lbl23.1 : RETURN : trying to set 0 previously set to 1

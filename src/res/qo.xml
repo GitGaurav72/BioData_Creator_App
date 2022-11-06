@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="false" android:layout_width="-1" android:layout_height="-1">
+	<FrameLayout android:id="false" android:layout_width="-1" android:layout_height="-1" />
+	<androidx.coordinatorlayout.widget.CoordinatorLayout android:layout_width="-1" android:layout_height="-1">
+		<com.google.android.material.appbar.AppBarLayout android:orientation="1" android:id="false" android:background="resourceId:0x106000d" android:layout_width="-1" android:layout_height="-2" android:elevation="0dp">
+			<ViewStub android:id="false" android:layout_width="-1" android:layout_height="-1" />
+		</com.google.android.material.appbar.AppBarLayout>
+		<androidx.swiperefreshlayout.widget.SwipeRefreshLayout android:id="false" android:layout_width="-1" android:layout_height="-1">
+			<androidx.recyclerview.widget.RecyclerView android:id="false" android:layout_width="-1" android:layout_height="-1" />
+		</androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+	</androidx.coordinatorlayout.widget.CoordinatorLayout>
+	<FrameLayout android:id="false" android:layout_width="-1" android:layout_height="-1" />
+	<FrameLayout android:id="false" android:layout_width="-1" android:layout_height="-1" />
+	<FrameLayout android:id="false" android:visibility="2" android:clickable="true" android:layout_width="-1" android:layout_height="-1">
+		<ProgressBar android:layout_gravity="0x51" android:id="false" android:layout_width="-2" android:layout_height="-2" android:layout_marginBottom="50dp" android:indeterminateTint="49d82" />
+	</FrameLayout>
+</FrameLayout>

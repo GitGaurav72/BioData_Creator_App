@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="1" android:background="res/Ki.9.png" android:clickable="true" android:layout_width="-1" android:layout_height="-2">
+	<LinearLayout android:orientation="1" android:id="false" android:background="f5f6f8" android:layout_width="-1" android:layout_height="-2">
+		<View android:layout_gravity="0x1" android:background="c1c0c0" android:layout_width="24dp" android:layout_height="2dp" android:layout_marginTop="6dp" android:layout_marginBottom="10dp" />
+		<LinearLayout android:orientation="0" android:paddingLeft="16dp" android:layout_width="-1" android:layout_height="30dp">
+			<TextView android:textSize="8dp" android:textColor="ffffff" android:gravity="0x11" android:id="false" android:background="5f80e3" android:layout_width="30dp" android:layout_height="-1" android:layout_marginTop="5dp" android:layout_marginBottom="5dp" android:text="group" />
+			<TextView android:textSize="20dp" android:textStyle="0x1" android:textColor="2a2b2c" android:ellipsize="2" android:gravity="0x10" android:id="false" android:layout_width="-2" android:layout_height="-1" android:layout_marginLeft="8dp" android:text="LinearLayout" android:singleLine="true" />
+		</LinearLayout>
+		<TextView android:textSize="14dp" android:textColor="a9a8a8" android:ellipsize="1" android:id="false" android:paddingLeft="16dp" android:paddingTop="2dp" android:paddingRight="16dp" android:layout_width="-1" android:layout_height="-2" android:text="tech.linjiang.pandora.ui.fragment.TextView" android:singleLine="true" android:drawableRight="res/Td.png" />
+		<LinearLayout android:gravity="0x10" android:orientation="0" android:paddingLeft="16dp" android:paddingTop="4dp" android:paddingBottom="12dp" android:layout_width="-1" android:layout_height="-2">
+			<TextView android:textSize="15dp" android:textColor="555657" android:id="false" android:layout_width="-2" android:layout_height="-2" android:text="text_view" />
+			<TextView android:textSize="15dp" android:textColor="5f80e3" android:id="false" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="16dp" android:layout_marginRight="8dp" android:text="800 X 400 dp" />
+		</LinearLayout>
+	</LinearLayout>
+	<View android:background="c1c0c0" android:layout_width="-1" android:layout_height="4194304unknown unit:0x31" />
+	<tech.linjiang.pandora.ui.view.MultiRvLayout android:gravity="0x10" android:orientation="0" android:id="false" android:paddingLeft="4dp" android:paddingRight="4dp" android:layout_width="-1" android:layout_height="280dp">
+		<androidx.recyclerview.widget.RecyclerView android:id="false" android:layout_width="0dp" android:layout_height="-2" android:layout_margin="4dp" android:layout_weight="{4:1065353216}" />
+		<View android:background="c1c0c0" android:layout_width="4194304unknown unit:0x31" android:layout_height="-1" />
+		<androidx.recyclerview.widget.RecyclerView android:id="false" android:layout_width="0dp" android:layout_height="-2" android:layout_margin="4dp" android:layout_weight="{4:1065353216}" />
+		<View android:background="c1c0c0" android:layout_width="4194304unknown unit:0x31" android:layout_height="-1" />
+		<androidx.recyclerview.widget.RecyclerView android:id="false" android:layout_width="0dp" android:layout_height="-2" android:layout_margin="4dp" android:layout_weight="{4:1065353216}" />
+	</tech.linjiang.pandora.ui.view.MultiRvLayout>
+	<View android:background="c1c0c0" android:layout_width="-1" android:layout_height="4194304unknown unit:0x31" />
+	<LinearLayout android:orientation="0" android:paddingTop="4dp" android:layout_width="-1" android:layout_height="-2">
+		<TextView android:textSize="10dp" android:gravity="0x11" android:layout_width="0dp" android:layout_height="-2" android:layout_marginLeft="16dp" android:layout_marginRight="16dp" android:text="PARENT" android:layout_weight="{4:1065353216}" />
+		<TextView android:textSize="10dp" android:gravity="0x11" android:layout_width="0dp" android:layout_height="-1" android:layout_marginLeft="16dp" android:layout_marginRight="16dp" android:text="SIBLING" android:layout_weight="{4:1065353216}" />
+		<TextView android:textSize="10dp" android:gravity="0x11" android:layout_width="0dp" android:layout_height="-1" android:layout_marginLeft="16dp" android:layout_marginRight="16dp" android:text="CHILDREN" android:layout_weight="{4:1065353216}" />
+	</LinearLayout>
+	<FrameLayout android:id="false" android:background="res/hd.xml" android:layout_width="-1" android:layout_height="-2" android:layout_margin="16dp" android:foreground="{2:16843534}">
+		<TextView android:textSize="15dp" android:textColor="000" android:layout_gravity="0x11" android:padding="12dp" android:layout_width="-2" android:layout_height="-1" android:text="View hierarchical tree" android:drawableLeft="res/xJ.png" android:drawablePadding="8dp" />
+	</FrameLayout>
+</LinearLayout>

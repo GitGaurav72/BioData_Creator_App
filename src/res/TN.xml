@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="0x10" android:orientation="0" android:background="ffffff" android:layout_width="-1" android:layout_height="-2">
+	<TextView android:textSize="12dp" android:gravity="0x10" android:id="false" android:background="fbfbfb" android:paddingLeft="12dp" android:paddingRight="12dp" android:visibility="2" android:layout_width="-2" android:layout_height="-1" />
+	<View android:background="c8c7cc" android:layout_width="1px" android:layout_height="-1" />
+	<TextView android:textSize="14dp" android:gravity="0x10" android:id="false" android:background="fbfbfb" android:paddingLeft="12dp" android:paddingRight="12dp" android:layout_width="0dp" android:layout_height="-1" android:layout_weight="{4:1077936128}" />
+	<View android:background="c8c7cc" android:layout_width="1px" android:layout_height="-1" />
+	<TextView android:textSize="14dp" android:textColor="000" android:gravity="0x10" android:id="false" android:paddingLeft="12dp" android:paddingTop="8dp" android:paddingRight="12dp" android:paddingBottom="8dp" android:layout_width="0dp" android:layout_height="-1" android:foreground="{2:2130903908}" android:layout_weight="{4:1082130432}" />
+	<tech.linjiang.pandora.ui.view.ExtraEditTextView android:textSize="14dp" android:textColor="000" android:gravity="0x10" android:id="false" android:paddingLeft="16dp" android:paddingTop="8dp" android:paddingRight="16dp" android:paddingBottom="8dp" android:focusableInTouchMode="true" android:visibility="2" android:descendantFocusability="0" android:layout_width="0dp" android:layout_height="-1" android:foreground="{2:2130903908}" android:lines="1" android:singleLine="true" android:layout_weight="{4:1082130432}" />
+	<ImageView android:id="false" android:background="ffffff" android:paddingRight="12dp" android:visibility="1" android:layout_width="-2" android:layout_height="-1" android:src="res/Td.png" />
+</LinearLayout>

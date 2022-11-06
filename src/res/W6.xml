@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="0x11" android:layout_width="-1" android:layout_height="-1">
+	<ScrollView android:layout_width="-1" android:layout_height="-2">
+		<LinearLayout android:gravity="0x11" android:orientation="1" android:paddingLeft="16dp" android:paddingTop="16dp" android:paddingRight="16dp" android:paddingBottom="16dp" android:layout_width="-1" android:layout_height="-2">
+			<ImageView android:id="false" android:layout_width="-2" android:layout_height="-2" android:src="res/Wl.png" android:contentDescription="resourceId:0x0" />
+			<TextView android:textSize="18sp" android:textStyle="0x1" android:gravity="0x11" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="16dp" android:text="An unexpected error occurred.
+Sorry for the inconvenience." />
+			<Button android:id="false" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="16dp" android:text="Close app" />
+			<Button android:textColor="{2:2130903282}" android:id="false" android:layout_width="-2" android:layout_height="-2" android:text="Error details" style="{2:2130903139}" />
+		</LinearLayout>
+	</ScrollView>
+</RelativeLayout>

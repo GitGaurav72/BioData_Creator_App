@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="false" android:background="ee000" android:layout_width="-1" android:layout_height="-1">
+	<FrameLayout android:id="false" android:layout_width="-1" android:layout_height="-1" />
+	<include layout="res/G0.xml" />
+	<FrameLayout android:id="false" android:visibility="2" android:layout_width="-1" android:layout_height="56dp" android:layout_alignParentBottom="true">
+		<ViewStub android:id="false" android:layout_width="-1" android:layout_height="-1" />
+	</FrameLayout>
+</RelativeLayout>

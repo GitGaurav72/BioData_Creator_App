@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:background="resourceId:0x106000c" android:layout_width="-1" android:layout_height="-1">
+	<com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView android:layout_gravity="0x11" android:id="false" android:layout_width="-1" android:layout_height="-2" app:showFullScreenButton="false" />
+</FrameLayout>

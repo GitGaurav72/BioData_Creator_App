@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android" android:color="{2:16843820}">
+	<item android:id="resourceId:0x102002e" android:drawable="res/Xr.xml" />
+	<item>
+		<selector>
+			<item android:state_activated="true">
+				<color android:color="33969696" />
+			</item>
+		</selector>
+	</item>
+</ripple>

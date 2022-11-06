@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="false" android:layout_width="-1" android:layout_height="-1" app:contentInsetLeft="0dp" app:contentInsetStart="0dp" app:layout_scrollFlags="0x5">
+	<FrameLayout android:id="false" android:layout_width="-1" android:layout_height="-1" />
+</androidx.appcompat.widget.Toolbar>

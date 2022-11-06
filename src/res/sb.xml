@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="-1" android:layout_height="-2">
+	<RelativeLayout android:padding="10dp" android:layout_width="-1" android:layout_height="-2">
+		<ProgressBar android:id="false" android:visibility="1" android:layout_width="30dp" android:layout_height="30dp" android:layout_centerInParent="true" />
+		<TextView android:textColor="777777" android:gravity="0x11" android:id="false" android:layout_width="-1" android:layout_height="-2" android:text="加载更多" android:layout_centerInParent="true" />
+	</RelativeLayout>
+</LinearLayout>
